@@ -1,4 +1,4 @@
-## Uindow - UI testing and web automation
+## Uindow - UI testing and web automation with trusted interactions
 
 <p align="center">
     <a href="https://uindow/?ref=github">
